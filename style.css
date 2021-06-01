@@ -1,0 +1,14 @@
+.text {
+  color:aliceblue;
+  font-family:monospace;  
+}
+.text1 {
+  color:plum;
+}
+.text2 {
+  color: lightgrey;
+  font-size: 115%; 
+}
+body {
+  background-color: black;
+}
